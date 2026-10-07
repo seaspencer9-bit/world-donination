@@ -1,0 +1,9 @@
+{
+  "name": "World Domination · The Spennys",
+  "short_name": "World Domination",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101c30",
+  "theme_color": "#101c30",
+  "description": "The Spennys' country, territory, UNESCO and trip tracker"
+}
